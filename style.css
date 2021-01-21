@@ -1,0 +1,15 @@
+img {
+    margin: auto;
+    display: flex;
+}
+.mybutton {
+    color: #fff;
+    background-color: #b5677d;
+    border-color: #b5677d;
+    margin: auto;
+    /* display: flex; */
+}
+.mybutton:hover {
+    color: white;
+    box-shadow: 4px 6px 8px #d0cbcb;
+}
